@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30110.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoinChange", "CoinChange\CoinChange.csproj", "{EA4A839B-D4EB-4D19-8EEE-7D03F4F843B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoinChangeRec", "CoinChangeRec\CoinChangeRec.csproj", "{106E7821-C4BB-48FA-9CEE-7CB80695138A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KnapsackRec", "KnapsackRec\KnapsackRec.csproj", "{9339EA70-6B8E-41A7-BF54-97F62EB691BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestIncreasingSeq", "LongestIncreasingSeq\LongestIncreasingSeq.csproj", "{53727A27-5A0C-4037-8BB1-8E64437F9858}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestCommonSubs", "LongestCommonSubs\LongestCommonSubs.csproj", "{204871E1-303D-4C36-8C50-EEF6552F6635}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixChainMul", "MatrixChainMul\MatrixChainMul.csproj", "{44A2FD71-E0C6-4351-B824-4E5AC780BA12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA4A839B-D4EB-4D19-8EEE-7D03F4F843B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA4A839B-D4EB-4D19-8EEE-7D03F4F843B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA4A839B-D4EB-4D19-8EEE-7D03F4F843B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA4A839B-D4EB-4D19-8EEE-7D03F4F843B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{106E7821-C4BB-48FA-9CEE-7CB80695138A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{106E7821-C4BB-48FA-9CEE-7CB80695138A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{106E7821-C4BB-48FA-9CEE-7CB80695138A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{106E7821-C4BB-48FA-9CEE-7CB80695138A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9339EA70-6B8E-41A7-BF54-97F62EB691BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9339EA70-6B8E-41A7-BF54-97F62EB691BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9339EA70-6B8E-41A7-BF54-97F62EB691BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9339EA70-6B8E-41A7-BF54-97F62EB691BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53727A27-5A0C-4037-8BB1-8E64437F9858}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53727A27-5A0C-4037-8BB1-8E64437F9858}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53727A27-5A0C-4037-8BB1-8E64437F9858}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53727A27-5A0C-4037-8BB1-8E64437F9858}.Release|Any CPU.Build.0 = Release|Any CPU
+		{204871E1-303D-4C36-8C50-EEF6552F6635}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{204871E1-303D-4C36-8C50-EEF6552F6635}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{204871E1-303D-4C36-8C50-EEF6552F6635}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{204871E1-303D-4C36-8C50-EEF6552F6635}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44A2FD71-E0C6-4351-B824-4E5AC780BA12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44A2FD71-E0C6-4351-B824-4E5AC780BA12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44A2FD71-E0C6-4351-B824-4E5AC780BA12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44A2FD71-E0C6-4351-B824-4E5AC780BA12}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
